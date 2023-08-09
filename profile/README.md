@@ -1,5 +1,15 @@
 ## Hi there 👋
 Below you'll find what repos contain which code. In each Repo another readme explains how to use it.
+#----------------------------------------#
+# Zybo-rt-sampler
+
+#----------------------------------------#
+# Beamforming-2
+Beamforming algorithm in Python
+
+#----------------------------------------#
+# FPGA-samling
+Sampling of microphone array
 
 #----------------------------------------#
 # Data-transfer
