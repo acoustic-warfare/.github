@@ -9,7 +9,7 @@ Below you'll find what repos contain which code. In each Repo another readme exp
 Beamforming algorithm in Python
 
 #----------------------------------------#
-# FPGA-samling
+# FPGA-sampling
 Sampling of microphone array
 
 #----------------------------------------#
