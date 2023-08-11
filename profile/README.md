@@ -1,5 +1,5 @@
 ## Hi there 👋
-Below you'll find what repos contain which code. In each Repo another readme explains how to use it. The report is found [here](https://github.com/acoustic-warfare/FPGA-sampling/wiki/User-Manual).
+Below you'll find what repos contain which code. In each Repo another readme explains how to use it. The report about the work is found [here]([https://github.com/acoustic-warfare/FPGA-sampling/wiki/User-Manual](https://github.com/acoustic-warfare/Beamforming/blob/main/Ljudkriget.pdf)).
 #----------------------------------------#
 # Zybo-rt-sampler
  Microphone Array API and beamforming application 
