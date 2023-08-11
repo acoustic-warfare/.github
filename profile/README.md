@@ -5,7 +5,7 @@ Below you'll find what repos contain which code. In each Repo another readme exp
  Microphone Array API and beamforming application 
  
 #----------------------------------------#
-# Beamforming-2
+# Beamforming
 Beamforming algorithm in Python
 
 #----------------------------------------#
