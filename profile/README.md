@@ -1,37 +1,33 @@
 ## Hi there 👋
-Below you'll find what repos contain which code. In each Repo another readme explains how to use it. The report about the work is found [here](https://github.com/acoustic-warfare/Beamforming/blob/main/Ljudkriget.pdf).
-#----------------------------------------#
-# Zybo-rt-sampler
- Microphone Array API and beamforming application 
+Below you'll find what repos contain which code. In each Repo another readme explains how to use it. Last years report about the work is found [here](https://github.com/acoustic-warfare/Beamforming/blob/main/Ljudkriget.pdf).
+
+# Acoustic warfare
+### [beamforming-lk](https://github.com/acoustic-warfare/beamforming-lk)
+Digital signal processing of audio sampling
+
+### [FPGA-sampling](https://github.com/acoustic-warfare/FPGA-sampling)
+Sampling of microphone arrays
+
+# RF
+
+### [RF](https://github.com/acoustic-warfare/RF)
+
+# Wara PS
+### [WARA-PS-MQTT-Agent](https://github.com/acoustic-warfare/WARA-PS-MQTT-Agent)
+MQTT Bridge for beamforming and WARA PS MQTT API for control and sensor output
+
+### [DynRT-streamer](https://github.com/acoustic-warfare/DynRT-streamer)
+Dynamic Real-Time Messaging Protocol streamer
+
+# Inactive repos
+**Zybo-rt-sampler**: Microphone Array API and beamforming application 
  
-#----------------------------------------#
-# Beamforming
-Beamforming algorithm in Python
+**Beamforming**: Beamforming algorithm in Python
 
-#----------------------------------------#
-# FPGA-sampling
-Sampling of microphone array
+**Data-transfer**: COTS RDMA using UCX
 
-#----------------------------------------#
-# Data-transfer
-COTS RDMA using UCX
+**Data-Transfer-Verbs**: COTS RDMA using libibverbs and librdmacm
 
-#----------------------------------------#
-# Data-Transfer-Verbs
-COTS RDMA using libibverbs and librdmacm
-
-#----------------------------------------#
-# Beamforming_cpp
-Unfinished beamforming algorithm in C++ & CUDA. 
+**Beamforming_cpp**: Unfinished beamforming algorithm in C++ & CUDA. 
 CUDA FIR-filter Algorithm works for 1 microphone but ignores the 63 other ones.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
