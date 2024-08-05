@@ -16,8 +16,8 @@ Sampling of microphone arrays
 ### [WARA-PS-MQTT-Agent](https://github.com/acoustic-warfare/WARA-PS-MQTT-Agent)
 MQTT Bridge for beamforming and WARA PS MQTT API for control and sensor output
 
-### [DynRT-streamer](https://github.com/acoustic-warfare/DynRT-streamer)
-Dynamic Real-Time Messaging Protocol streamer
+### [RtmpStreamer](https://github.com/acoustic-warfare/RtmpStreamer)
+Dynamic RTMP streamer with local streaming capabilities
 
 # Inactive repos
 **Zybo-rt-sampler**: Microphone Array API and beamforming application 
