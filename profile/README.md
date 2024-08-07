@@ -17,7 +17,7 @@ Sampling of microphone arrays
 MQTT Bridge for beamforming and WARA PS MQTT API for control and sensor output
 
 ### [RtmpStreamer](https://github.com/acoustic-warfare/RtmpStreamer)
-Dynamic RTMP streamer with local streaming capabilities
+Dynamic streamer to RTMP server with local streaming capabilities
 
 # Inactive repos
 **Zybo-rt-sampler**: Microphone Array API and beamforming application 
