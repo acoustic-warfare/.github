@@ -9,8 +9,8 @@ Digital signal processing of audio sampling
 Sampling of microphone arrays
 
 # RF
-
 ### [RF](https://github.com/acoustic-warfare/RF)
+Using SDRs to analyze radio frequencies. 
 
 # Wara PS
 ### [WARA-PS-MQTT-Agent](https://github.com/acoustic-warfare/WARA-PS-MQTT-Agent)
